@@ -1,2 +1,2 @@
 # test-repo
-This is for testing git
+This is for testing git.
