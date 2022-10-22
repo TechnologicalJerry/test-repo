@@ -1,9 +1,5 @@
-# test-repo...
+# test-repo
 This is for testing git.
-
-... ... ...
 
 ## SubHeader 
 Watch your git push!
-
-... ... ...
